@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.grid {
+    display: flex;
+
+    grid-template-columns: auto;
+}
+
+.section {
+    display: grid;
+    text-align: center;
+    border: 3px solid rgb(178, 106, 106);
+    margin: 5px;
+    color: red;
+}
+
+h4 {
+    /* font-size: 40px; */
+    padding: 5px 20px;
+}
