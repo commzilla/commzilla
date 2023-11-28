@@ -14,7 +14,7 @@
 
 - 💬 Ask me about: **E-Commerce, Marketing, Performance Advertising**
 
-- ⚡ Fun fact: ** One time I won $5 on a scratch-off ticket **
+- ⚡ Fun fact: **One time I won $5 on a scratch-off ticket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
