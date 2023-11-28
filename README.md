@@ -1,7 +1,7 @@
 ![Masterhead](https://s5.gifyu.com/images/SRZF9.gif)
 
 <h1 align="center">Hi 👋 I'm Angelo </h1>
-<h3 align="center">Amateur frontend developer ❤️</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=commzilla&label=Profile%20views&color=0e75b6&style=flat" alt="commzilla" /> </p>
