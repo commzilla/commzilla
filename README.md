@@ -12,7 +12,9 @@
 
 - 📫 How to reach me: **angelo@nexada.co**
 
-- ⚡ Fun fact: **I drink more coffee in a day then the average human in a year ☕️**
+- 💬 Ask me about: **E-Commerce, Marketing, Performance Advertising**
+
+- ⚡ Fun fact: ** One time I won $5 on a scratch-off ticket **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
