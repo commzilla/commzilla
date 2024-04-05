@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=commzilla&show_icons=true&locale=en" alt="commzilla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acommzilla&" alt="acommzilla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acommzilla&" alt="commzilla" /></p>
