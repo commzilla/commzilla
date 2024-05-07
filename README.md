@@ -1,6 +1,6 @@
 ![Masterhead](https://s5.gifyu.com/images/SRZF9.gif)
 
-<h1 align="center">Hi 👋, I'm Angelo</h1>
+<h1 align="center">Hi, I'm Angelo👋</h1>
 <h3 align="center">I love bringing solutions to life through No-Code Development</h3>
 <img align="right" alt="Coding" width="400" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif">
 
