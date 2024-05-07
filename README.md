@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python and Psychology**
 
-- ⭐️ I'm a Top 1% Web Development LinkedIn Voice
+- ⭐️ I'm a **Top 1%** Web Development LinkedIn Voice
 
 - 💬 Ask me about **No-Code, PHP and how to throw an amazing party 🍸**
 
