@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/commzilla" target="blank"><img src="https://img.shields.io/twitter/follow/commzilla?logo=twitter&style=for-the-badge" alt="commzilla" /></a> </p>
 
-- 🌱 I’m currently learning: **JavaScript, Next.JS, Three.JS, Node.JS**
+- 🌱 I’m currently learning: **Python**
 
 - 📫 How to reach me: **angelo@nexada.co**
 
-- 💬 Ask me about: **E-Commerce, Marketing, Performance Advertising**
+- 💬 Ask me about: **Full Stack No-Code Development, PHP, Laravel and how to party 🍸**
 
 - ⚡ Fun fact: **One time I won $5 on a scratch-off ticket**
 
